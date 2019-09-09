@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13204" started-at="2019-08-24T20:01:24Z" finished-at="2019-08-24T20:01:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13204" started-at="2019-08-24T20:01:24Z" finished-at="2019-08-24T20:01:37Z">
+      <class name="com.mvn.switchToWindow.SwitchToWindow">
+        <test-method status="PASS" signature="testSwitchToWindow()[pri:0, instance:com.mvn.switchToWindow.SwitchToWindow@724af044]" name="testSwitchToWindow" duration-ms="13185" started-at="2019-08-25T01:31:24Z" finished-at="2019-08-25T01:31:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSwitchToWindow -->
+      </class> <!-- com.mvn.switchToWindow.SwitchToWindow -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
